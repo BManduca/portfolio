@@ -15,11 +15,17 @@ h1 {
 
 }
 
+.texto_tudo {
+
+    width: 100%;
+
+}
+
 
 .caixa_descrição {
 
     width: 820px;
-    margin-left: 20px;
+    margin-left: 5%;
     position: absolute;
 
 }
@@ -37,7 +43,7 @@ h1 {
 .caixa_detalhes {
 
     width: 600px;
-    margin-left: 1800px;
+    margin-left: 65%;
     margin-bottom: 100px;
 
 }
